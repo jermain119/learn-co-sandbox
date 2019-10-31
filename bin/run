@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+require_relative "../lib/cli"
+
+run
+
+=begin
+git add .
+git commit -m “description”
+git push
+=end
